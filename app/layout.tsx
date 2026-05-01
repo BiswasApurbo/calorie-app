@@ -119,6 +119,7 @@ export default function RootLayout({
     <NavLink href="/awards">Awards</NavLink>
     <NavLink href="/certifications">Certifications</NavLink>
     <NavLink href="/skills">Skills</NavLink>
+    <NavLink href="/calorie">Calorie App</NavLink>
     <NavLink href="/resume">Resume</NavLink>
     <NavLink href="/contact">Contact</NavLink>
   </div>
@@ -141,6 +142,7 @@ export default function RootLayout({
                 <NavLink href="/awards">Awards</NavLink>
                 <NavLink href="/certifications">Certifications</NavLink>
                 <NavLink href="/skills">Skills</NavLink>
+                <NavLink href="/calorie">Calorie App</NavLink>
                 <NavLink href="/resume">Resume</NavLink>
                 <NavLink href="/contact">Contact</NavLink>
               </div>

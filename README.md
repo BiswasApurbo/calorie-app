@@ -1,20 +1,38 @@
-# Apurbo Portfolio
+# Calorie App
 
-Personal portfolio website of **Apurbo Biswas** — Machine Learning & Deep Learning Researcher.
+A calorie tracking web app built with **Next.js 16** and **Tailwind CSS**.
+
+This app allows users to:
+- enter age, height, weight, and activity level
+- track food items and quantities
+- calculate basal metabolic rate (BMR)
+- estimate daily calorie needs
+- receive meal and exercise suggestions
 
 ## 🚀 Tech Stack
 - Next.js 16
 - Tailwind CSS
-- shadcn/ui
+- React 19
+- Framer Motion
 
 ## 📦 Run Locally
 
 ```bash
 npm install
 npm run dev
+```
 
-Open http://localhost:3000
+Open in your browser:
 
-🌐 Live Site
+```text
+http://localhost:3000/calorie
+```
 
-(Coming soon)
+## 🧪 Build for production
+
+```bash
+npm run build
+```
+
+## 🔗 Repository
+- https://github.com/BiswasApurbo/calorie-app
